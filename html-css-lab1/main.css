@@ -1,6 +1,6 @@
- html {
-height: 90%; why can't it be at 100%? If I set it to 100, I get scroll bars. Even when I have everything else turned off */
-padding: 20px; */
+html {
+height: 90%;
+padding: 20px;
 }
 
 body {
